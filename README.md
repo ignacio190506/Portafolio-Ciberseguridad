@@ -14,7 +14,7 @@ Soy un Pentester Junior certificado EJPT, apasionado y detallista, dedicado a id
 ---
 
 ### 🧰 Herramientas y Tecnologías
-* **Sistemas Operativos:** Kali Linux, Parrot OS, Ubuntu.
+* **Sistemas Operativos:** Kali Linux, Ubuntu, Windows.
 * **Reconocimiento y Escaneo:** Nmap, Masscan, Dirsearch, Gobuster, Nikto.
 * **Explotación y Frameworks:** Metasploit, Burp Suite, SQLmap, CrackMapExec.
 * **Lenguajes / Scripting:** Bash, Python (Automatización y modificación de exploits).
@@ -25,8 +25,8 @@ Soy un Pentester Junior certificado EJPT, apasionado y detallista, dedicado a id
 Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e investigación de seguridad:
 
 * **[Repositorio de Writeups](./writeups):** Mis guías detalladas (writeups) de máquinas resueltas en TryHackMe/HackTheBox.
-* **[Configuración de Lab de Active Directory](./link-to-project):** Documentación de cómo monté un laboratorio vulnerable de AD para pruebas.
-* **[Nombre de Script Propio](./link-to-project):** Un script en Python/Bash que desarrollé para automatizar [menciona qué hace, ej: recon/análisis].
+* **[Configuración de Lab de Active Directory](./cheatsheets):** Documentación de cómo monté un laboratorio vulnerable de AD para pruebas.
+* **[Nombre de Script Propio](./tools):** Scripts que ayudan a las fases de reconocimiento, explotación y enumeración.
 
 #### 📈 Perfiles en Plataformas:
 * **Hack The Box:** [[Enlace a tu perfil](https://app.hackthebox.com/profile/XXXXX)]
@@ -62,7 +62,7 @@ I am a passionate and detail-oriented Junior Penetration Tester, certficated in 
 ---
 
 ### 🧰 Tech Stack & Tools
-* **OS:** Kali Linux, Parrot OS, Ubuntu.
+* **OS:** Kali Linux, Ubuntu, Windows.
 * **Recon & Scanning:** Nmap, Masscan, Dirsearch, Gobuster, Nikto.
 * **Exploitation & Frameworks:** Metasploit, Burp Suite, SQLmap, CrackMapExec.
 * **Languages / Scripting:** Bash, Python (Automation & Exploit modification).
@@ -74,12 +74,11 @@ Here is a collection of my practical work, machine completions, and security res
 
 * **[Writeups Repository Name](./writeups):** My detailed writeups for machines solved on TryHackMe/HackTheBox.
 * **[Active Directory Lab Setup](./cheatsheets):** Documentation on how I built a vulnerable AD lab for testing.
-* **[Custom Script/Tool Name](./tools):** A Python/Bash script I developed to automate [mention what it does, e.g., recon/parsing].
+* **[Custom Script/Tool Name](./tools):** Scripts that assist with reconnaissance, exploitation, and coin enumeration
 
 #### 📈 Platform Profiles:
 * **Hack The Box:** [[Your Profile Link](https://app.hackthebox.com/profile/XXXXX)]
 * **TryHackMe:** [[Your Profile Link](https://tryhackme.com/p/XXXXX)]
-* **PortSwigger Web Security Academy:** [Completed X topics / Link]
 
 ---
 
@@ -92,4 +91,3 @@ Here is a collection of my practical work, machine completions, and security res
 ### 🤝 Connect with me
 * **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 * **Email:** your.email@example.com
-* **Medium/Blog:** [yourblog.com (If you write articles)](https://yourblog.com)
