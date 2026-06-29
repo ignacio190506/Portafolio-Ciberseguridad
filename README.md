@@ -1,7 +1,7 @@
 # ¡Hola! Soy Ignacio Cruz
 ## Pentester Junior / Hacker Ético
 
-Soy un Pentester Junior apasionado y detallista, dedicado a identificar vulnerabilidades, asegurar infraestructuras y comprender la mentalidad de los atacantes para construir mejores defensas. En constante aprendizaje, activo en plataformas de CTF y enfocado en la seguridad práctica e ingeniería inversa.
+Soy un Pentester Junior certificado EJPT, apasionado y detallista, dedicado a identificar vulnerabilidades, asegurar infraestructuras y comprender la mentalidad de los atacantes para construir mejores defensas. En constante aprendizaje, activo en plataformas de CTF y enfocado en la seguridad práctica e ingeniería inversa.
 
 ---
 
@@ -36,9 +36,8 @@ Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e 
 ---
 
 ### 📜 Certificaciones y Educación
-* **[eJPT / PNPT / OSCP / CEH, etc.]:** [Emisor] - [Año/Estado]
-* **[Security+ / CompTIA, etc.]:** [Emisor] - [Año]
-* **[Tu Título/Carrera]:** [Universidad/Instituto] - [Año]
+* **[eJPT]:** [INE] - [2026/Vigente]
+* **[Ingeniería Civil en Informática e Inteligencia Artificial]:** [Universidad] - [2024- 2026 (En curso)]
 
 ---
 
