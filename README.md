@@ -24,7 +24,7 @@ Soy un Pentester Junior certificado EJPT, apasionado y detallista, dedicado a id
 ### 🚀 Laboratorios Prácticos y Writeups
 Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e investigación de seguridad:
 
-* **[Repositorio de Writeups](./link-to-folder):** Mis guías detalladas (writeups) de máquinas resueltas en TryHackMe/HackTheBox.
+* **[Repositorio de Writeups](./writeups):** Mis guías detalladas (writeups) de máquinas resueltas en TryHackMe/HackTheBox.
 * **[Configuración de Lab de Active Directory](./link-to-project):** Documentación de cómo monté un laboratorio vulnerable de AD para pruebas.
 * **[Nombre de Script Propio](./link-to-project):** Un script en Python/Bash que desarrollé para automatizar [menciona qué hace, ej: recon/análisis].
 
