@@ -35,8 +35,8 @@ Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e 
 ---
 
 ### Certificaciones y Educación
-* **[eJPT]:** [INE] - [2026/Vigente]
-* **[Ingeniería Civil en Informática e Inteligencia Artificial]:** [Universidad del Desarrollo (UDD)] - [2024- 2026 (En curso)]
+* **eJPT:** [INE] - [2026/Vigente] [Link](https://certs.ine.com/1751726d-10c7-4c36-9275-5b21936822a5#acc.uUSvXwsP)
+* **Ingeniería Civil en Informática e Inteligencia Artificial:** [Universidad del Desarrollo (UDD)] - [2024- 2026 (En curso)]
 
 ---
 
@@ -83,8 +83,8 @@ Here is a collection of my practical work, machine completions, and security res
 ---
 
 ### Certifications & Education
-* **[eJPT]:** [INE] - [2026/Validate]
-* **[Civil Engineering, Computer Science, and Artificial Intelligence]:** [Universidad del Desarrollo (UDD)] - [2024 - 2026 (In progress)]
+* **eJPT:** [INE] - [2026/Validate]. [Link](https://certs.ine.com/1751726d-10c7-4c36-9275-5b21936822a5#acc.uUSvXwsP)
+* **Civil Engineering, Computer Science, and Artificial Intelligence:** [Universidad del Desarrollo (UDD)] - [2024 - 2026 (In progress)]
 
 ---
 
