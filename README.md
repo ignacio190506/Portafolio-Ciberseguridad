@@ -84,7 +84,7 @@ Here is a collection of my practical work, machine completions, and security res
 
 ### 📜 Certifications & Education
 * **[eJPT]:** [INE] - [2026/Validate]
-* **[Civil Engineering, Computer Science, and Artificial Intelligence]:** [Universidad del Desarrollo (UDD)] - [2024 - 2026 (En curso)]
+* **[Civil Engineering, Computer Science, and Artificial Intelligence]:** [Universidad del Desarrollo (UDD)] - [2024 - 2026 (In progress)]
 
 ---
 
