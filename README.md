@@ -26,25 +26,25 @@ Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e 
 
 * **[Repositorio de Writeups](./writeups):** Mis guías detalladas (writeups) de máquinas resueltas en TryHackMe/HackTheBox.
 * **[Configuración de Lab de Active Directory](./cheatsheets):** Documentación de cómo monté un laboratorio vulnerable de AD para pruebas.
-* **[Nombre de Script Propio](./tools):** Scripts que ayudan a las fases de reconocimiento, explotación y enumeración.
+* **[Scripts de automatización](./tools):** Scripts que ayudan a las fases de reconocimiento, explotación y enumeración.
 
 #### 📈 Perfiles en Plataformas:
 * **Hack The Box:** [[Enlace a tu perfil](https://app.hackthebox.com/profile/XXXXX)]
 * **TryHackMe:** [[Enlace a tu perfil](https://tryhackme.com/p/XXXXX)]
-* **PortSwigger Web Security Academy:** [X temas completados / Enlace]
 
 ---
 
 ### 📜 Certificaciones y Educación
 * **[eJPT]:** [INE] - [2026/Vigente]
-* **[Ingeniería Civil en Informática e Inteligencia Artificial]:** [Universidad] - [2024- 2026 (En curso)]
+* **[Ingeniería Civil en Informática e Inteligencia Artificial]:** [Universidad del Desarrollo (UDD)] - [2024- 2026 (En curso)]
 
 ---
 
 ### 🤝 Contacto
-* **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-* **Correo:** tu.correo@example.com
-* **Medium/Blog:** [tublog.com (Si escribes artículos)](https://tublog.com)
+* **Linkedin:** [Linkedin](www.linkedin.com/in/ignacio-cruz-a3a35236a)
+* **Correo:** ignacio.j.cruz.v@gmail.com / i.cruzv@udd.cl
+* **Teléfono:** +56974017229 
+
 
 # Hi there, I'm Ignacio Cruz 
 ## Junior Penetration Tester / Ethical Hacker
@@ -74,7 +74,7 @@ Here is a collection of my practical work, machine completions, and security res
 
 * **[Writeups Repository Name](./writeups):** My detailed writeups for machines solved on TryHackMe/HackTheBox.
 * **[Active Directory Lab Setup](./cheatsheets):** Documentation on how I built a vulnerable AD lab for testing.
-* **[Custom Script/Tool Name](./tools):** Scripts that assist with reconnaissance, exploitation, and coin enumeration
+* **[Automation scripts](./tools):** Scripts that assist with reconnaissance, exploitation, and coin enumeration
 
 #### 📈 Platform Profiles:
 * **Hack The Box:** [[Your Profile Link](https://app.hackthebox.com/profile/XXXXX)]
@@ -89,5 +89,6 @@ Here is a collection of my practical work, machine completions, and security res
 ---
 
 ### 🤝 Connect with me
-* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-* **Email:** your.email@example.com
+* **Linkedin:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* **Email:** ignacio.j.cruz.v@gmail.com / i.cruzv@udd.cl
+* **Phone Number:** +56974017229 
