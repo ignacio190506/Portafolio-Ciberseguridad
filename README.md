@@ -5,7 +5,7 @@ Soy un Pentester Junior certificado EJPT, apasionado y detallista, dedicado a id
 
 ---
 
-### 🛡️ Áreas de Interés y Experiencia
+### Áreas de Interés y Experiencia
 * **Pentesting de Redes:** Reconocimiento, Evaluación de Vulnerabilidades, Explotación.
 * **Seguridad en Aplicaciones Web:** Pruebas basadas en el OWASP Top 10, seguridad en APIs.
 * **Escalada de Privilegios:** Entornos Linux y Windows.
@@ -13,7 +13,7 @@ Soy un Pentester Junior certificado EJPT, apasionado y detallista, dedicado a id
 
 ---
 
-### 🧰 Herramientas y Tecnologías
+### Herramientas y Tecnologías
 * **Sistemas Operativos:** Kali Linux, Ubuntu, Windows.
 * **Reconocimiento y Escaneo:** Nmap, Masscan, Dirsearch, Gobuster, Nikto.
 * **Explotación y Frameworks:** Metasploit, Burp Suite, SQLmap, CrackMapExec.
@@ -21,7 +21,7 @@ Soy un Pentester Junior certificado EJPT, apasionado y detallista, dedicado a id
 
 ---
 
-### 🚀 Laboratorios Prácticos y Writeups
+### Laboratorios Prácticos y Writeups
 Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e investigación de seguridad:
 
 * **[Repositorio de Writeups](./writeups):** Mis guías detalladas (writeups) de máquinas resueltas en TryHackMe/HackTheBox.
@@ -34,13 +34,13 @@ Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e 
 
 ---
 
-### 📜 Certificaciones y Educación
+### Certificaciones y Educación
 * **[eJPT]:** [INE] - [2026/Vigente]
 * **[Ingeniería Civil en Informática e Inteligencia Artificial]:** [Universidad del Desarrollo (UDD)] - [2024- 2026 (En curso)]
 
 ---
 
-### 🤝 Contacto
+### Contacto
 * **Linkedin:** [Linkedin](https://www.linkedin.com/in/ignacio-cruz-a3a35236a)
 * **Correo:** ignacio.j.cruz.v@gmail.com / i.cruzv@udd.cl
 * **Teléfono:** +56974017229 
@@ -53,7 +53,7 @@ I am a passionate and detail-oriented Junior Penetration Tester, certficated in 
 
 ---
 
-### 🛡️ Areas of Interest & Expertise
+### Areas of Interest & Expertise
 * **Network Pentesting:** Reconnaissance, Vulnerability Assessment, Exploitation.
 * **Web Application Security:** OWASP Top 10 testing, API security.
 * **Privilege Escalation:** Linux and Windows environments.
@@ -61,7 +61,7 @@ I am a passionate and detail-oriented Junior Penetration Tester, certficated in 
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 * **OS:** Kali Linux, Ubuntu, Windows.
 * **Recon & Scanning:** Nmap, Masscan, Dirsearch, Gobuster, Nikto.
 * **Exploitation & Frameworks:** Metasploit, Burp Suite, SQLmap, CrackMapExec.
@@ -69,20 +69,20 @@ I am a passionate and detail-oriented Junior Penetration Tester, certficated in 
 
 ---
 
-### 🚀 Hands-On Labs & Writeups
+### Hands-On Labs & Writeups
 Here is a collection of my practical work, machine completions, and security research:
 
 * **[Writeups Repository Name](./writeups):** My detailed writeups for machines solved on TryHackMe/HackTheBox.
 * **[Active Directory Lab Setup](./cheatsheets):** Documentation on how I built a vulnerable AD lab for testing.
 * **[Automation scripts](./tools):** Scripts that assist with reconnaissance, exploitation, and coin enumeration
 
-#### 📈 Platform Profiles:
-* **Hack The Box:** [[Your Profile Link](https://app.hackthebox.com/profile/XXXXX)]
+#### Platform Profiles:
+* **Hack The Box:** [[HTB](https://profile.hackthebox.com/profile/019f0f66-7816-7192-9bab-b1168f6ffc23)]
 * **TryHackMe:** [[Your Profile Link](https://tryhackme.com/p/XXXXX)]
 
 ---
 
-### 📜 Certifications & Education
+### Certifications & Education
 * **[eJPT]:** [INE] - [2026/Validate]
 * **[Civil Engineering, Computer Science, and Artificial Intelligence]:** [Universidad del Desarrollo (UDD)] - [2024 - 2026 (In progress)]
 
