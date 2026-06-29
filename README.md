@@ -41,7 +41,7 @@ Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e 
 ---
 
 ### 🤝 Contacto
-* **Linkedin:** [Linkedin](www.linkedin.com/in/ignacio-cruz-a3a35236a)
+* **Linkedin:** [Linkedin](https://www.linkedin.com/in/ignacio-cruz-a3a35236a)
 * **Correo:** ignacio.j.cruz.v@gmail.com / i.cruzv@udd.cl
 * **Teléfono:** +56974017229 
 
@@ -89,6 +89,6 @@ Here is a collection of my practical work, machine completions, and security res
 ---
 
 ### 🤝 Connect with me
-* **Linkedin:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* **Linkedin:** [Linkedin](https://www.linkedin.com/in/ignacio-cruz-a3a35236a)
 * **Email:** ignacio.j.cruz.v@gmail.com / i.cruzv@udd.cl
 * **Phone Number:** +56974017229 
