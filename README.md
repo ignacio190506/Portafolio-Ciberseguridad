@@ -45,3 +45,51 @@ Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e 
 * **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 * **Correo:** tu.correo@example.com
 * **Medium/Blog:** [tublog.com (Si escribes artículos)](https://tublog.com)
+
+# Hi there, I'm Ignacio Cruz 
+## Junior Penetration Tester / Ethical Hacker
+
+I am a passionate and detail-oriented Junior Penetration Tester, certficated in EJPT, dedicated to identifying vulnerabilities, securing infrastructures, and understanding the attacker's mindset to build better defenses. Continuous learner, active on CTF platforms, and focused on practical, hands-on security.
+
+---
+
+### 🛡️ Areas of Interest & Expertise
+* **Network Pentesting:** Reconnaissance, Vulnerability Assessment, Exploitation.
+* **Web Application Security:** OWASP Top 10 testing, API security.
+* **Privilege Escalation:** Linux and Windows environments.
+* **Active Directory:** Basic enumeration and post-exploitation.
+
+---
+
+### 🧰 Tech Stack & Tools
+* **OS:** Kali Linux, Parrot OS, Ubuntu.
+* **Recon & Scanning:** Nmap, Masscan, Dirsearch, Gobuster, Nikto.
+* **Exploitation & Frameworks:** Metasploit, Burp Suite, SQLmap, CrackMapExec.
+* **Languages / Scripting:** Bash, Python (Automation & Exploit modification).
+
+---
+
+### 🚀 Hands-On Labs & Writeups
+Here is a collection of my practical work, machine completions, and security research:
+
+* **[Writeups Repository Name](./writeups):** My detailed writeups for machines solved on TryHackMe/HackTheBox.
+* **[Active Directory Lab Setup](./cheatsheets):** Documentation on how I built a vulnerable AD lab for testing.
+* **[Custom Script/Tool Name](./tools):** A Python/Bash script I developed to automate [mention what it does, e.g., recon/parsing].
+
+#### 📈 Platform Profiles:
+* **Hack The Box:** [[Your Profile Link](https://app.hackthebox.com/profile/XXXXX)]
+* **TryHackMe:** [[Your Profile Link](https://tryhackme.com/p/XXXXX)]
+* **PortSwigger Web Security Academy:** [Completed X topics / Link]
+
+---
+
+### 📜 Certifications & Education
+* **[eJPT]:** [INE] - [2026/Validate]
+* **[Civil Engineering, Computer Science, and Artificial Intelligence]:** [Universidad del Desarrollo (UDD)] - [2024 - 2026 (En curso)]
+
+---
+
+### 🤝 Connect with me
+* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* **Email:** your.email@example.com
+* **Medium/Blog:** [yourblog.com (If you write articles)](https://yourblog.com)
