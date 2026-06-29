@@ -29,8 +29,8 @@ Aquí tienes una colección de mi trabajo práctico, resolución de máquinas e 
 * **[Scripts de automatización](./tools):** Scripts que ayudan a las fases de reconocimiento, explotación y enumeración.
 
 #### 📈 Perfiles en Plataformas:
-* **Hack The Box:** [[Enlace a tu perfil](https://app.hackthebox.com/profile/XXXXX)]
-* **TryHackMe:** [[Enlace a tu perfil](https://tryhackme.com/p/XXXXX)]
+* **Hack The Box:** [[HTB](https://profile.hackthebox.com/profile/019f0f66-7816-7192-9bab-b1168f6ffc23)]
+* **TryHackMe:** [[THM](https://tryhackme.com/p/ignacio.j.cruz.v)]
 
 ---
 
@@ -78,7 +78,7 @@ Here is a collection of my practical work, machine completions, and security res
 
 #### Platform Profiles:
 * **Hack The Box:** [[HTB](https://profile.hackthebox.com/profile/019f0f66-7816-7192-9bab-b1168f6ffc23)]
-* **TryHackMe:** [[Your Profile Link](https://tryhackme.com/p/XXXXX)]
+* **TryHackMe:** [[THM](https://tryhackme.com/p/ignacio.j.cruz.v)]
 
 ---
 
