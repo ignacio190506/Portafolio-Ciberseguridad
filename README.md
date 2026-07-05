@@ -74,7 +74,7 @@ Here is a collection of my practical work, machine completions, and security res
 
 * **[Writeups Repository Name](./writeups):** My detailed writeups for machines solved on TryHackMe/HackTheBox.
 * **[Active Directory Lab Setup](./cheatsheets):** Documentation on how I built a vulnerable AD lab for testing.
-* **[Automation scripts](./tools):** Scripts that assist with reconnaissance, exploitation, and coin enumeration
+* **[Automation scripts](./tools):** Scripts that assist with reconnaissance, exploitation, and enumeration
 
 #### Platform Profiles:
 * **Hack The Box:** [[HTB](https://profile.hackthebox.com/profile/019f0f66-7816-7192-9bab-b1168f6ffc23)]
